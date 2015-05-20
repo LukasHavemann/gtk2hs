@@ -74,8 +74,8 @@ profileviewer: This is a slightly larger demo that combines use of glade, the fi
   The program is a simple viewer for the log files that ghc produces when you do time profiling. 
 
 soe: SOE (School of Expression) is an alternative implementation of the graphics library used in
-  a book by Paul Hudak, http://www.haskell.org/soe/.
-API at http://www.haskell.org/gtk2hs/docs/devel/Graphics-SOE-Gtk.html
+  a book by Paul Hudak, http://www.cs.yale.edu/homes/hudak/SOE/.
+API at https://hackage.haskell.org/package/soegtk-0.11.1/docs/Graphics-SOE-Gtk.html
 
 sourceview: a program showing itself with syntax highlighting
 Needs: --enable-sourceview and/or sourceview installed at Gtk2HS build time
